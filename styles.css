@@ -31,12 +31,6 @@ p {
     color: #777;
 }
 
-wrapper {
-    width: 940px;
-    margin: 0 auto;
-    padding: 0 10px;
-}
-
 ul {
     list-style: none;
 }
@@ -49,6 +43,12 @@ a {
 small {
     font-size: 13px;
     font-style: italic;
+}
+
+.wrapper {
+    width: 940px;
+    margin: 0 auto;
+    padding: 0 10px;
 }
 
 .orange {
